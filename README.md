@@ -17,5 +17,5 @@ To run the DDPG solution code, download the following files and place them in th
     dqn_agent.py
     model.py
 
-The code can then be run by opening the Continuous_Control notebook in the prescribed environment and running the cells.
+The code can then be run by opening the Collaboration and Competition notebook in the prescribed environment and running the cells.
 
